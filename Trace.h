@@ -1,5 +1,5 @@
-#include <string>
 #include <list>
+#include <string>
 
 typedef std::list<std::string> StackTrace;
 

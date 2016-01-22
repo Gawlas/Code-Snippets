@@ -1,4 +1,5 @@
 #undef NULL
+
 const class Null
 {
 public:
